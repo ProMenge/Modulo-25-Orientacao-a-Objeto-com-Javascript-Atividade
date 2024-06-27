@@ -68,3 +68,5 @@ console.log(Object.values(pikachu));
 console.log(Object.values(charmander));
 console.log(Object.values(squirtle));
 console.log(Object.values(bulbasaur));
+
+//confesso estar meio confuso ainda
